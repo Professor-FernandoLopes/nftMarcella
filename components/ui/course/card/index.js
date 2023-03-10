@@ -63,7 +63,7 @@ iterationCount="infinite"
 </div>
 </div>
 
-<Link href='http://localhost:3000/empresas'> 
+<Link href='https://nft-marcella.vercel.app/empresas'> 
 <a
 className="h-12 block mt-1 text-sm sm:text-base leading-tight font-medium text-blue2 hover:underline">
 {course.title}
