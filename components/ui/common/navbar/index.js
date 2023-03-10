@@ -64,7 +64,7 @@ requireInstall ?
 
 <Button
 onClick={() => window.open("https://metamask.io/download.html", "_blank")}>
-Install Metamask
+Instale Metamask
 </Button> :
 
 <Button

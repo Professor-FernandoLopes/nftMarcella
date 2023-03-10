@@ -126,7 +126,7 @@ return (
 size="sm"
 disabled={true}
 variant="lightPurple">
-Install
+Você não está na Web3
 </Button>
 )
 }
