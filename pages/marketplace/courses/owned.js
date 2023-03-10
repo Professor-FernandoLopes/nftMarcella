@@ -35,14 +35,14 @@ export default function OwnedCourses({courses}) {
         { account.isEmpty &&
           <div className="w-1/2">
             <Message type="warning">
-              <div>Você não está conectado</div>
+              <div className="text-blue2">Você não está conectado</div>
             </Message>
           </div>
         }
         { requireInstall &&
           <div className="w-1/2">
             <Message type="warning">
-              <div>Para acessar a Web3 instale Metamask</div>
+              <div className="text-blue2">Para acessar a Web3 instale Metamask</div>
             </Message>
           </div>
         }
