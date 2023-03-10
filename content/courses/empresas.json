@@ -1,0 +1,129 @@
+[
+  
+    {
+      "id": "6789",
+      "type": "Marcella Zorzo",
+      "title": "Conheça os benefícios",
+      "description": "Contrate Marcella Zorzo para inserir sua empresa na Web3",
+      "coverImage": "https://gateway.pinata.cloud/ipfs/QmViAr1tvkAaRUNutCSvLndcuqZaJfmyBZKWyfDYth5YYN",
+      "attributes" : "https://gateway.pinata.cloud/ipfs/QmViAr1tvkAaRUNutCSvLndcuqZaJfmyBZKWyfDYth5YYN",
+      
+      "slug": "ConsultoriaempresarialaWeb3",
+      "wsl": [
+        "Consultoria para inserir sua empresa na Web3",
+        "Conexão direta com ampla base de clientes",
+        "Digital influencer na Web2 e na Web3",
+        "Aproxime-se de seus clientes por meio de NFTs",
+        "Tokenize seus negócios"
+      ],
+      "createdAt": ""
+    },
+    {
+        "id": "5678",
+        "type": "CB Shoes",
+        "title": "Conheça os benefícios",
+        "description": "Desconto de 20% aos detentores de uma fração do NFT Guia da Família",
+        "coverImage": "http://localhost:3000/rasteirinha.jpeg",
+        "attributes" : "https://gateway.pinata.cloud/ipfs/QmViAr1tvkAaRUNutCSvLndcuqZaJfmyBZKWyfDYth5YYN",
+        
+        "slug": "CB Shoes",
+        "wsl": [
+          "Desconto de 20% em todos os nossos produtos"
+          
+        ],
+        "createdAt": ""
+      }, 
+      {
+        "id": "1410474",
+        "type": "Sofisticada",
+        "title": "Compre este NFT e adquira sofisticação",
+        "description": "Benefícios especiais apenas para quem é especial",
+        "coverImage": "https://gateway.pinata.cloud/ipfs/QmYNqoEhJD4hH36RJRWGTEGwhdRiteRJzGVx3rnjPunGCs",
+        "author": "Filip Jerga",
+        "link": "https://academy.eincode.com/courses/next-js-typescript-with-shopify-integration-full-guide",
+        "slug": "next-js-typescript-with-shopify-integration-full-guide",
+        "wsl": [
+          "Em breve"
+        ],
+        "createdAt": ""
+      },
+      {
+        "id": "1331625",
+        "type": "Espontânea",
+        "title": "Compre este NFT e adquira espontaneidade",
+        "description": "Benefícios especiais apenas para quem é especial",
+        "coverImage": "https://gateway.pinata.cloud/ipfs/QmXK68i3Pv9kGV5z2pqXw8fhpSceTDqu8hkfHdnEch8Kk7",
+        "author": "Filip Jerga",
+        "link": "https://academy.eincode.com/courses/gatsby-js-developer-s-guide-important-parts-blog-app",
+        "slug": "gatsby-js-developer-s-guide-important-parts-blog-app",
+        "wsl": [
+          "Em breve"
+        ],
+        "createdAt": ""
+      },
+      {
+        "id": "1112431",
+        "type": "Comunicativa",
+        "title": "Compre este NFT para se comunicar melhor",
+        "description": "Benefícios especiais apenas para quem é especial",
+        "coverImage": "https://gateway.pinata.cloud/ipfs/QmRFUNM6JdQsZ1NgpkogpEEzd2tKFbdi75yWjdAvhmarUt",
+        "author": "Filip Jerga",
+        "link": "https://academy.eincode.com/courses/the-complete-unity-guide-3d-beginner-to-rpg-game-dev-in-c",
+        "slug": "the-complete-unity-guide-3d-beginner-to-rpg-game-dev-in-c",
+        "wsl": [
+          "Em breve"
+          
+        ],
+        "createdAt": ""
+      },
+      {
+        "id": "2",
+        "type": "Luxury NYC Penthouse",
+        "title": "293 Lafayette St PENTHOUSE 1, New York, NY 10012",
+        "description": "Luxury NYC Penthouse.",
+        "coverImage": "https://ipfs.io/ipfs/QmUsuRJyRUmeHzZxes5FRMkc4mjx35HbaTzHzzWoiRdT5G",
+        "manager": "Fernando Lopes",
+        "attributes": [
+          {
+              "address": "address",
+              "value": "293 Lafayette St PENTHOUSE 1, New York, NY 10012"
+              
+          },
+          {
+              "purchase_price": "purchase_price",
+              "value": ""
+              
+          },
+          {
+              "beds": "Beds",
+              "value": 5
+             
+          },
+          {
+              "baths": "Bathrooms",
+              "value": 5
+             
+          },
+          {
+            "square_feet": "Square Feet",
+            "value": 7241
+           
+        },  
+        {
+          "year_built": "Year Built",
+          "value" : "1885"
+        }
+      ],
+        "link": "https://ipfs.io/ipfs/QmTudSYeM7mz3PkYEWXWqPjomRPHogcMFSq7XAvsvsgAPS",
+        "slug": "293 Lafayette St PENTHOUSE 1, New York, NY 10012",
+        "wsl": [
+          "Diversify Away From Financial Markets",
+          "With fractional real estate, professionals handle property maintenance and management and investments are completely passive",
+          "Investors who opt for fractional real estate may be able to achieve a diverse real estate portfolio with a modest first investment.",
+          "fractional investors don't take on personal credit risks. They won’t be personally liable for unpaid debts, and their credit will not take a hit."
+        ],
+        "createdAt": ""
+      }
+    
+]
+

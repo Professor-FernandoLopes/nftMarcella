@@ -1,0 +1,14 @@
+.animated-text {
+    @apply text-4xl font-bold text-white;
+    animation: changeText 5s ease-in-out infinite alternate;
+  }
+  
+  @keyframes changeText {
+    from {
+      content: "Uma fração que pode mudar toda sua vida";
+    }
+    to {
+      content: "Mudança que pode transformar seu futuro";
+    }
+  }
+  
