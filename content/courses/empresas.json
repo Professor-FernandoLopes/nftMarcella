@@ -23,7 +23,7 @@
         "type": "CB Shoes",
         "title": "Conheça os benefícios",
         "description": "Desconto de 20% aos detentores de uma fração do NFT Guia da Família",
-        "coverImage": "http://localhost:3000/rasteirinha.jpeg",
+        "coverImage": "https://nft-marcella.vercel.app/rasteirinha.jpeg",
         "attributes" : "https://gateway.pinata.cloud/ipfs/QmViAr1tvkAaRUNutCSvLndcuqZaJfmyBZKWyfDYth5YYN",
         
         "slug": "CB Shoes",
