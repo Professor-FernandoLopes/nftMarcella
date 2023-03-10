@@ -35,14 +35,14 @@ export default function OwnedCourses({courses}) {
         { account.isEmpty &&
           <div className="w-1/2">
             <Message type="warning">
-              <div>Please connect to Metamask</div>
+              <div>Você não está conectado</div>
             </Message>
           </div>
         }
         { requireInstall &&
           <div className="w-1/2">
             <Message type="warning">
-              <div>Please install Metamask</div>
+              <div>Para acessar a Web3 instale Metamask</div>
             </Message>
           </div>
         }
