@@ -1,7 +1,7 @@
 [
   
     {
-      "id": "6789",
+      "id": "1",
       "type": "Marcella Zorzo",
       "title": "Conheça os benefícios",
       "description": "Contrate Marcella Zorzo para inserir sua empresa na Web3",
@@ -19,7 +19,7 @@
       "createdAt": ""
     },
     {
-        "id": "5678",
+        "id": "2",
         "type": "CB Shoes",
         "title": "Conheça os benefícios",
         "description": "Desconto de 20% aos detentores de uma fração do NFT Guia da Família",
@@ -34,30 +34,30 @@
         "createdAt": ""
       }, 
       {
-        "id": "1410474",
-        "type": "Sofisticada",
-        "title": "Compre este NFT e adquira sofisticação",
-        "description": "Benefícios especiais apenas para quem é especial",
-        "coverImage": "https://gateway.pinata.cloud/ipfs/QmYNqoEhJD4hH36RJRWGTEGwhdRiteRJzGVx3rnjPunGCs",
-        "author": "Filip Jerga",
-        "link": "https://academy.eincode.com/courses/next-js-typescript-with-shopify-integration-full-guide",
-        "slug": "next-js-typescript-with-shopify-integration-full-guide",
+        "id": "3",
+        "type": "Connect",
+        "title": "NTW Connect",
+        "description": "20% de desconto nos eventos mensais de networking em Balneário Camboriú e Palestras promovidas pela empresa Connect",
+        "coverImage": "https://ipfs.io/ipfs/QmZhPDsgUbumiH1yV8ktSsE93RiqELQAPytPSL9hiBY2Dp",
+        "author": "Connect",
+        "link": "https://ipfs.io/ipfs/QmZhPDsgUbumiH1yV8ktSsE93RiqELQAPytPSL9hiBY2Dp",
+        "slug": "Connect",
         "wsl": [
-          "Em breve"
+          "20% de desconto nos eventos mensais de networking em Balneário Camboriú e Palestras promovidas pela empresa Connect"
         ],
         "createdAt": ""
       },
       {
-        "id": "1331625",
-        "type": "Espontânea",
-        "title": "Compre este NFT e adquira espontaneidade",
-        "description": "Benefícios especiais apenas para quem é especial",
-        "coverImage": "https://gateway.pinata.cloud/ipfs/QmXK68i3Pv9kGV5z2pqXw8fhpSceTDqu8hkfHdnEch8Kk7",
-        "author": "Filip Jerga",
-        "link": "https://academy.eincode.com/courses/gatsby-js-developer-s-guide-important-parts-blog-app",
-        "slug": "gatsby-js-developer-s-guide-important-parts-blog-app",
+        "id": "4",
+        "type": "TAISI GRIZA",
+        "title": "desconto em procedimentos de Toxina botulínica dentre outros",
+        "description": "20% de descontos nos procedimentos de Toxina botulínica  Preenchimento labial  Full face Bichectomia  Lipo de papada  Bioestimuladores  IPRF  Fios em Itapema com a profissional Dra. Taisi Griza",
+        "coverImage": "https://ipfs.io/ipfs/QmXqkVnRAPxbdnHom8yYq2VTBibMw42vgkK9LRyv3JcJ9S",
+        "author": "Taisi Griza",
+        "link": "https://ipfs.io/ipfs/QmXqkVnRAPxbdnHom8yYq2VTBibMw42vgkK9LRyv3JcJ9S",
+        "slug": "Taisi Griza",
         "wsl": [
-          "Em breve"
+          "20% de descontos nos procedimentos de Toxina botulínica  Preenchimento labial  Full face Bichectomia  Lipo de papada  Bioestimuladores  IPRF  Fios em Itapema com a profissional Dra. Taisi Griza"
         ],
         "createdAt": ""
       },
