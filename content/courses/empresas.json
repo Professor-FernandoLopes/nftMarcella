@@ -62,65 +62,31 @@
         "createdAt": ""
       },
       {
-        "id": "1112431",
-        "type": "Comunicativa",
-        "title": "Compre este NFT para se comunicar melhor",
-        "description": "Benefícios especiais apenas para quem é especial",
-        "coverImage": "https://gateway.pinata.cloud/ipfs/QmRFUNM6JdQsZ1NgpkogpEEzd2tKFbdi75yWjdAvhmarUt",
-        "author": "Filip Jerga",
-        "link": "https://academy.eincode.com/courses/the-complete-unity-guide-3d-beginner-to-rpg-game-dev-in-c",
-        "slug": "the-complete-unity-guide-3d-beginner-to-rpg-game-dev-in-c",
+        "id": "5",
+        "type": "ARTEEPURA",
+        "title": "ARTEEPURA",
+        "description": "Serviços: Fotografia,vídeos, filtros, GIFs, NFTs, social media, tráfego pago, sites, e material gráfico.",
+        "coverImage": "https://ipfs.io/ipfs/QmWZ25zUamtzh7JxPXFQSfd5CmaUmLj2pAXiZVvt2uMnFr",
+        "author": "ArtePura",
+        "link": "https://ipfs.io/ipfs/QmWZ25zUamtzh7JxPXFQSfd5CmaUmLj2pAXiZVvt2uMnFr",
+        "slug": "ArteePura",
         "wsl": [
-          "Em breve"
-          
-        ],
+          "www.arteepura.com.br tel: DDD-041-996667770 Os serviços on line são oferecidos para todo o Brasil, e a fotografia e vídeos para as cidades: Curitiba, Balneário Camboriú, São Paulo e Pato Branco."
+          ],
         "createdAt": ""
       },
       {
-        "id": "2",
-        "type": "Luxury NYC Penthouse",
-        "title": "293 Lafayette St PENTHOUSE 1, New York, NY 10012",
-        "description": "Luxury NYC Penthouse.",
+        "id": "6",
+        "type": "Quiropraxia & Yoga",
+        "title": "Quiropraxia & Yoga",
+        "description": "25% de desconto para sessão de Yoga e Quiropraxia em Balneário Camboriú com o @vinidielprado",
         "coverImage": "https://ipfs.io/ipfs/QmUsuRJyRUmeHzZxes5FRMkc4mjx35HbaTzHzzWoiRdT5G",
-        "manager": "Fernando Lopes",
-        "attributes": [
-          {
-              "address": "address",
-              "value": "293 Lafayette St PENTHOUSE 1, New York, NY 10012"
-              
-          },
-          {
-              "purchase_price": "purchase_price",
-              "value": ""
-              
-          },
-          {
-              "beds": "Beds",
-              "value": 5
-             
-          },
-          {
-              "baths": "Bathrooms",
-              "value": 5
-             
-          },
-          {
-            "square_feet": "Square Feet",
-            "value": 7241
-           
-        },  
-        {
-          "year_built": "Year Built",
-          "value" : "1885"
-        }
-      ],
-        "link": "https://ipfs.io/ipfs/QmTudSYeM7mz3PkYEWXWqPjomRPHogcMFSq7XAvsvsgAPS",
-        "slug": "293 Lafayette St PENTHOUSE 1, New York, NY 10012",
+        "manager": "Quiropraxia",
+        
+        "link": "https://ipfs.io/ipfs/QmNM2MCKhrz6Cem4kBCUZG9w1TxaXSkk7rW5pGGYTjTQKH",
+        "slug": "Quiropraxia",
         "wsl": [
-          "Diversify Away From Financial Markets",
-          "With fractional real estate, professionals handle property maintenance and management and investments are completely passive",
-          "Investors who opt for fractional real estate may be able to achieve a diverse real estate portfolio with a modest first investment.",
-          "fractional investors don't take on personal credit risks. They won’t be personally liable for unpaid debts, and their credit will not take a hit."
+          "25% de desconto para sessão de Yoga e Quiropraxia em Balneário Camboriú com o @vinidielprado"
         ],
         "createdAt": ""
       }
