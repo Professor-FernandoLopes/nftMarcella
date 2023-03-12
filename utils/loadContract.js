@@ -11,7 +11,7 @@ export const loadContract = async (name, web3) => {
   try {
     contract = new web3.eth.Contract(
       Artifact.abi,
-      "0x88b022494E00c36A12F3A0cBc69F9a1855c0cDA2"
+      "0xe75a9a9f46F1d737d4567025e965a13cD304fce6"
       // Artifact.networks[NETWORK_ID].address
     )
   } catch {

@@ -161,7 +161,7 @@ setHasAgreedTOS(checked)
 type="checkbox"
 className="form-checkbox" />
 </label>
-<span>Eu concordo como os &apos;termos do <span className="p-4 my-3 text-purple-800 bg-white-200 rounded-lg text-sm"> &apos; <Link href={"https://ipfs.io/ipfs/QmbYM6kvUpiaq26eahSar1ZtmR1yyyrE6Vhh8AYvATrDcC"}> NFT CONTRACT</Link> &apos; </span>  e estou ciente que minha compra será recusada no caso de descumprimento dos termos contratuais.</span>
+<span>Eu concordo como os &apos;termos do <span className="p-4 my-3 text-purple-800 bg-white-200 rounded-lg text-sm"> &apos; <Link href={"https://ipfs.io/ipfs/Qme2FxGnrkJLMSyEEqnYVtWtjK3LaLXtg6jqFmry7EK7gy"}> NFT CONTRACT</Link> &apos; </span>  e estou ciente que minha compra será recusada no caso de descumprimento dos termos contratuais.</span>
 </div>
 { formState.message &&
 <div className="p-4 my-3 text-yellow-700 bg-yellow-200 rounded-lg text-sm">
