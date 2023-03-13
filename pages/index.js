@@ -8,9 +8,11 @@ export default function Home({courses}) {
   return (
     <>
     <Head>
+    <meta property="og:title" content="A fração que mudará toda a sua vida" />
     <meta property="og:image" content="/guia.png" />
     <meta name="description" content="Adquira a fração de NFT que mudará toda sua vida" />
     <link rel="icon" href="/favicon.ico" />
+    <meta property="og:url" content="https://www.marcellazorzonft.com/" />
     </Head>
       <Hero />
       <CourseList
