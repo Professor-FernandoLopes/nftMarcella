@@ -41,7 +41,7 @@ You are owner of:
 
 <div className="rounded-md shadow bg-blue2">
 
-<a href="https://ipfs.io/ipfs/QmbYM6kvUpiaq26eahSar1ZtmR1yyyrE6Vhh8AYvATrDcC" className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 md:py-4 md:text-lg md:px-10">
+<a href="https://ipfs.io/ipfs/Qme2FxGnrkJLMSyEEqnYVtWtjK3LaLXtg6jqFmry7EK7gy">
 Leia o NFT CONTRACT.
 </a>
 
