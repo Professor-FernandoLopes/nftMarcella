@@ -9,6 +9,7 @@ export default function Home({courses}) {
     <>
 <Head>
 <meta property="og:image" content="/guia.png" />
+<meta name="description" content="Adquira a fração de NFT que mudará toda sua vida"/>
 </Head>
       <HeroEmpresas />
       <CourseList
